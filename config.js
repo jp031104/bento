@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '40.640507',
+	defaultLongitude: '-8.653754',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -112,7 +112,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.es/',
 		},
 		{
 			id: '5',
@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=hjUXxyqcOHs',
 				},
 				{
 					name: 'Classic',
